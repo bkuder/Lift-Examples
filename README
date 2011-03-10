@@ -1,0 +1,11 @@
+To build:
+
+mvn clean install
+
+To start a local server:
+
+mvn jetty:run
+
+To access the test page:
+
+http://localhost:9090/runMode
